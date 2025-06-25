@@ -15,7 +15,7 @@ Hi, I’m **Mohamed Mahmoud** — a passionate technical consultant specialized 
 - Reporting (QWeb, Excel, PDF)
 - Integration: payment gateways, external services
 - Deployment: Odoo.sh, Dockerized Odoo.
-- 
+  
 #### Functional Coverage
 - ✅ Odoo configuration & parameterization  
 - ✅ **Sales**: quotations, orders, invoicing workflows  
