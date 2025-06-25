@@ -63,8 +63,8 @@ Hi, I’m **Mohamed Mahmoud** — a passionate technical consultant specialized 
 ---
 
 ## 📫 Let’s Connect
-- **Email:** yourname@example.com  
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourname)  
+- **Email:** mtaleb97@yahoo.com  
+- **LinkedIn:** [My-linkedin-profile](https://www.linkedin.com/in/mohamed-mahmoud-taleb-678314182/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - **Website:** [yourwebsite.com](https://yourwebsite.com)
 
 ---
