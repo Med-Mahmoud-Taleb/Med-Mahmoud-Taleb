@@ -1,4 +1,4 @@
-# 🟣 Technical Odoo Consultant | Linux Administrator
+# 🟣 Technical Odoo Consultant
 
 Hi, I’m **Mohamed Mahmoud** — a passionate technical consultant specialized in **Odoo ERP**, Python development, system integration, and Linux administration. I focus on delivering reliable, secure, and scalable solutions.
 
